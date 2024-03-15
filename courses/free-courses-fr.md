@@ -6,13 +6,14 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Delphi](#delphi)
 * [Git](#git)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [jQuery](#jquery)
-  * [React](#react)
-  * [Vue.js](#vuejs)
+    * [jQuery](#jquery)
+    * [React](#react)
+    * [Vue.js](#vuejs)
 * [Linux](#linux)
 * [PHP](#php)
 * [Python](#python)
@@ -28,7 +29,7 @@
 
 ### APL
 
-* [Découvrez le langage APL](https://www.youtube.com/watch?v=Nxq1BUUXobM&list=PLYKQVqyrAEj_DwkVAvj7xHxr72ite69nW) - Schraf : Maths-info
+* [Découvrez le langage APL](https://www.youtube.com/playlist?list=PLIz4PfDd5D29oOW61VkB4MHxGurtSCmhh) - Schraf : Maths-info
 
 
 ### Bash / Shell
@@ -42,7 +43,7 @@
 
 * [Apprendre le langage C](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j) - Formation Video
 * [Apprendre le langage C - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ) - Formation Video
-* [Le Langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - sur Zeste de Savoir de Informaticienzero, Taure, Paraze et Lucas-84
+* [Le Langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - sur Zeste de Savoir, Informaticienzero, Taure, Paraze, Lucas-84
 * [TUTOS C](https://www.youtube.com/playlist?list=PLEagTQfI6nPOWS4JPnxW5pRVgeyLuS5oC) - PrimFX
 
 
@@ -54,6 +55,11 @@
 ### <a id="cpp"></a>C++
 
 * [La programmation en C++ moderne](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/) - Zeste de savoir informaticienzero mehdidou99
+
+
+### Delphi
+
+* [Apprendre la programmation avec Delphi](https://apprendre-delphi.fr/apprendre-la-programmation-avec-delphi-2020.php) - Patrick Prémartin
 
 
 ### Git
@@ -73,8 +79,8 @@
 * [HTML/CSS - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb) - Formation Video
 * [HTML/CSS - Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfG1_4HrfPttdwF8aLpgdsRL) - Formation Video
 * [Le préprocesseur SASS](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWVp8WUGheSrGnmEWIMk9H6) - Grafikart
-* [Tutoriel CSS](http://fr.html.net/tutorials/css/)
-* [Tutoriel HTML](http://fr.html.net/tutorials/html/)
+* [Tutoriel CSS](http://fr.html.net/tutorials/css/) - `trl.:` Jean Jacques Solari
+* [Tutoriel HTML](http://fr.html.net/tutorials/html/) - `trl.:` Jean Jacques Solari
 * [TUTOS HTML et CSS](https://www.youtube.com/playlist?list=PLEagTQfI6nPObScwsDmTCbLuZXRYfiUM-) - PrimFX
 
 
@@ -83,13 +89,13 @@
 * [Cours Java](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) - Formation Video
 
 
-### Javascript
+### JavaScript
 
 * [Apprendre à coder en JavaScript \| Cours complet (2020)](https://www.pierre-giraud.com/javascript-apprendre-coder-cours/) - Pierre Giraud
 * [Apprendre le JavaScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw) - Grafikart
 * [Cours JavaScript](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_) - Formation Video
 * [Déboguer son code JavaScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWWXgsHpfCLHJ1Oq4YnE08e) - Grafikart
-* [Tutoriel de javascript moderne](https://fr.javascript.info) - javascript.info
+* [Le Tutoriel JavaScript Moderne](https://fr.javascript.info) - javascript.info
 * [TUTOS JS](https://www.youtube.com/playlist?list=PLEagTQfI6nPPVSKoYo2p8Cf8eijcyz5t9) - PrimFX
 
 
@@ -110,7 +116,7 @@
 
 ### Linux
 
-* [Linux et Ubuntu - Administration Réseau](https://www.tutoriels-video.fr/category/ubuntu/) (Tutoriels Videos)
+* [Linux et Ubuntu - Administration Réseau](https://www.tutoriels-video.fr/category/ubuntu/) - Alexis Madrzejewski
 
 
 ### Python
@@ -127,7 +133,7 @@
 * [Apprendre Symfony 4 par l'exemple](https://www.youtube.com/playlist?list=PLjwdMgw5TTLX7wmorGgfrqI9TcA8nMb29) - Grafikart
 * [Cours complet de Pierre Giraud sur le développement PHP avec MySQL](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/) - Pierre Giraud
 * [Tester sur Symfony](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWtWmdMzPaoc45Iztu7tVQ8) - Grafikart
-* [Tutoriel HTML](http://fr.html.net/tutorials/php/)
+* [Tutoriel PHP](http://fr.html.net/tutorials/php/) - `trl.:` Jean Jacques Solari
 * [TUTOS PHP](https://www.youtube.com/playlist?list=PLEagTQfI6nPN2sdrLWhX_hO1pMOmC9JGU) - PrimFX
 
 
@@ -145,4 +151,4 @@
 
 ### SysAdmin
 
-* [Développement Web - Administration Réseau](https://www.tutoriels-video.fr/category/webdev/) (Tutoriels Videos)
+* [Développement Web - Administration Réseau](https://www.tutoriels-video.fr/category/webdev/) - Alexis Madrzejewski
